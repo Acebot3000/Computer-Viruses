@@ -6,3 +6,5 @@ I am not responsible for any damage caused to your computer by these viruses.
 # Instructions:
 1. Download viruses from releases page.
 2. Execute it.
+# Note:
+This only works on windows.
